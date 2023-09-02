@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\derek\\AppData\\Local\\arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\derek\\AppData\\Local\\arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek\\AppData\\Local\\Temp\\arduino\\sketches\\223049A78FC45BA4F3375788CFD8941D\\sketch\\Bin.ino.cpp",
+    "Include": "Key.h",
+    "Includepath": "C:\\Users\\derek\\Documents\\Arduino\\libraries\\Keypad\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek\\AppData\\Local\\Temp\\arduino\\sketches\\223049A78FC45BA4F3375788CFD8941D\\sketch\\Bin.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek\\Documents\\Arduino\\libraries\\Keypad\\src\\Key.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek\\Documents\\Arduino\\libraries\\Keypad\\src\\Keypad.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
