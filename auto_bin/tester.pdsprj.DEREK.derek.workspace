@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffffbb0000000d000000c9060000f1030000</PLACEMENT>
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff7c080000130000008a0e0000f7030000</PLACEMENT>
   <WINDOW type="default" module="ISIS">
-   <editor metric="0" gridmajor="25400000" mode="00000010" zoom="0" scale="77" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="164935">
+   <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="107" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
     <world y1="-15240000" x1="-15240000" y2="15240000" x2="15240000"/>
     <centre x="0" y="0"/>
     <origin x="0" y="0"/>
@@ -18,7 +18,7 @@
   </editor>
  </MODULE>
  <MODULE name="ISIS">
-  <editor metric="0" gridmajor="25400000" mode="00000010" zoom="0" scale="77" flipped="0" gridminor="508000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="164935">
+  <editor metric="0" gridmajor="2540000" mode="00000000" zoom="0" scale="107" flipped="0" gridminor="254000" gridmode="32" snapidx="2" snap="254000" xcursor="0" orgmode="0" snaprange="127000">
    <world y1="-15240000" x1="-15240000" y2="15240000" x2="15240000"/>
    <centre x="0" y="0"/>
    <origin x="0" y="0"/>
@@ -26,10 +26,10 @@
  </MODULE>
  <MODULE name="VSMDEBUG">
   <PWI>
-   <POPUP w="800" x="2184" flags="00008003" y="140" h="200" pid="0" iid="-1">
+   <POPUP w="800" x="1756" flags="00008003" y="-4" h="695" pid="0" iid="-1">
     <PROPERTIES>
      <ITEM name="Message Column Width">550</ITEM>
-     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="ShowGrid">Yes</ITEM>
      <ITEM name="Source Column Width">100</ITEM>
      <ITEM name="Time Column Width">120</ITEM>
      <ITEM name="Version">100</ITEM>
@@ -133,6 +133,12 @@
      <ITEM name="Value Column Width">96</ITEM>
      <ITEM name="Version">100</ITEM>
      <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="555" x="3863" flags="00000023" y="287" h="371" pid="0" iid="24">
+    <PROPERTIES>
+     <ITEM name="AutoEcho">0</ITEM>
+     <ITEM name="HexMode">0</ITEM>
     </PROPERTIES>
    </POPUP>
   </PWI>
